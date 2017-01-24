@@ -9,4 +9,4 @@ ROM stendur fyrir Read-only memory og það er plata sem eftir að framleiðandi
 ### 4. Fyrir hvað stendur skammstöfunin ESD, Hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 ESD stendur fyrir Electrostatic discharge og það er eitthvað sem getur gerst þegar stöðuorka safnast upp og kemst síðan í snertingu við annan hlut sem hefur minna/meira að stöðuorku. ESD getur valdið varandi skaða á íhluti í tölvum en til að forðast að það er hægt að hafa tölvuhluti í antistatic pokum þangað til á að nota hlutina, nota jarðaða mottu undir á borðinu sem er unnið með tölvuna eða á öllu vinnusvæðinu og síðan er líka hægt að nota antistatic handband.
 ### 5. Hvað þarf að hafa í huga við val á spennugjöfum.
-Það þarf að passa að spennan sé nákvæm og stöðug. 
+Það þarf að passa að móðurborðið passi við spennugjafan og að spennan sé nákvæm og stöðug. 
