@@ -17,3 +17,6 @@ ESD stendur fyrir Electrostatic discharge og það er eitthvað sem getur gerst 
 4. Búa til plan til að leysa vandamálið og innleiða lausnina
 5. Staðfesta að allt kerfið virkar og ef þarf, að gera fyrirbyggjandi ráðstafanir
 6. Skjalsetja það sem þú fannst, það sem þú gerðir og útkomuna
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum. 
+Lokuð spurning er spurning sem er hægt að svara einfaldlega með já eða nei. t.d. átt þú gæludýr? Opin spurning er spurning sem þarf meiri hugsun og fleiri en eitt orð til að svara t.d. Hvernig líður þér?
+
