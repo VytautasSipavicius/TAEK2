@@ -23,4 +23,15 @@ Lokuð spurning er spurning sem er hægt að svara einfaldlega með já eða nei
 Jaðartæki eru tæki sem eru útfyrir eitthvað t.d. þau tæki sem eru útfyrir tölvukassann í tölvunni eru jaðartæki. Dæmi um jaðartæki eru Tölvuskjár sem er tengdur við borðtölvu, USB lykill sem stýngst í tölvuna og Router sem tengist þráðlaust við tölvuna þína. 
 ### 9. Nefndu þrjú dæmi um inntakstæki.
 Lyklaborð, mús, skanni
-
+### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+| Tölvubúð	| Hlutur	| Tegund			| Verð	|
+|---------------|:-------------:|-----------------------------:	|------:|
+| Tölvulistinn	| Tölvukassi	| Cooler master Silencio	| 13.491|
+| Computer	| Skjákort	| Geforce GTX 1070 8GB		| 66.900|
+| Tölvutækni	| Örgjafi	| Intel i7 6700k 4.0 ~ 4.2 GHz 	| 48.900|
+| @tt.is	| Vinnsluminni	| 16 GB (2x8 GB) 3000 MHz	| 16.950|
+| Tölvulistinn	| Harður diskur	| 1 TB SSD Samsung 850 EVO 	| 53.996|
+| @tt.is	| Móðurborð	| Asus Z170-Pro Gaming		| 27.855|
+| Kísildalur	| Aflgjafi	| Aerocool KCAS 600W		| 8.500	|
+|-----------------------------------------------------------------------|
+|**Samtals Kostnaður**		|				 236592
