@@ -34,5 +34,4 @@ Lyklaborð, mús, skanni
 | Tölvulistinn	| Harður diskur	| 1 TB SSD Samsung 850 EVO 	| 53.996|
 | @tt.is	| Móðurborð	| Asus Z170-Pro Gaming		| 27.855|
 | Kísildalur	| Aflgjafi	| Aerocool KCAS 600W		| 8.500	|
-|-----------------------------------------------------------------------|
 |**Samtals Kostnaður**		|				 236592
