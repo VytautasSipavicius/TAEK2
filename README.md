@@ -19,4 +19,6 @@ ESD stendur fyrir Electrostatic discharge og það er eitthvað sem getur gerst 
 6. Skjalsetja það sem þú fannst, það sem þú gerðir og útkomuna
 ### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum. 
 Lokuð spurning er spurning sem er hægt að svara einfaldlega með já eða nei. t.d. átt þú gæludýr? Opin spurning er spurning sem þarf meiri hugsun og fleiri en eitt orð til að svara t.d. Hvernig líður þér?
+### 8. Hvað eru jaðartæki?
+Jaðartæki eru tæki sem eru útfyrir eitthvað t.d. þau tæki sem eru útfyrir tölvukassann í tölvunni eru jaðartæki. Dæmi um jaðartæki eru Tölvuskjár sem er tengdur við borðtölvu, USB lykill sem stýngst í tölvuna og Router sem tengist þráðlaust við tölvuna þína. 
 
